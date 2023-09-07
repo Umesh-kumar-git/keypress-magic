@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    border-color: rgb(52, 54, 56);
+    color: #fff;
+}
+table,th ,td{
+    border: 1px solid rgb(83, 81, 81);
+    padding: 1rem;
+    margin: auto;
+    color: #fff;
+}
+.project{
+    min-width: 30%;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(43, 48, 48);
+}
